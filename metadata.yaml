@@ -1,0 +1,35 @@
+_repo: Radio-Boys-Loyalty--Or-Bill-Brown-Listens-In_25753
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Aaron, S. F. (Samuel Francis)
+    alias: Aaron, S. F.
+    birthdate: 1862
+    gutenberg_agent_id: '4636'
+    url: http://www.gutenberg.org/2009/agents/4636
+  - agent_name: Whipple, Wayne
+    birthdate: 1856
+    deathdate: 1942
+    gutenberg_agent_id: '4113'
+    url: http://www.gutenberg.org/2009/agents/4113
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Marconi, Guglielmo, marchese, 1874-1937 -- Juvenile fiction'
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcc 'PZ'
+title: Radio Boys Loyalty; Or, Bill Brown Listens In
+url: http://www.gutenberg.org/ebooks/25753
